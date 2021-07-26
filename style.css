@@ -1,0 +1,150 @@
+body {
+  background-image: url(https://images.wallpaperscraft.com/image/clouds_porous_horizon_134099_2560x1440.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: 0;
+
+}
+
+.a {
+  background-color: #444444;
+  color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+  height: 75px;
+  text-align: right;
+}
+
+.resume, .aboutme, .contact, .work {
+  color: white;
+  text-decoration: none;
+}
+
+.emptyabvname {
+  height: 135px;
+}
+
+.para4 {
+  font-size: 200%;
+  height: 100%;
+  position: relative;
+  top: 14px;
+}
+
+.emptybelname {
+  height: 200px;
+}
+
+.b {
+  line-height: 75%;
+}
+
+.coding{float:left;
+
+padding-left:200px;
+margin-right: 100px;
+}
+.pg1{text-align: left;}
+
+.para2 {
+  color: black;
+  /*alternate #222831*/
+  font-size: 400%;
+  font-family: 'Caveat', cursive;
+  font-weight: 100;
+}
+
+.para1 {
+  font-family: 'Caveat', cursive;
+  color: black;
+  font-size: 200%;
+}
+
+.para3 {
+  font-family: 'Caveat', cursive;
+  color: black;
+  font-size: 150%;
+}
+
+
+.sh {
+  font-family: 'Jost', sans-serif;
+  font-size: 315%;
+  font-weight: lighter;
+}
+
+.pg {
+  font-family: 'Jost', sans-serif;
+  font-size: 175%;
+  line-height: 2;
+}
+
+.pg1 {
+  font-family: 'Jost', sans-serif;
+  font-size: 175%;
+  color: black;
+  text-decoration: none;
+}
+.img2{position: relative;
+left:100px;}
+.img3{position: relative;
+left:200px;}
+
+.img4{position: relative;
+left:300px;}
+.img5{position: relative;
+left:400px;}
+
+
+.footer-link {
+  color: black;
+  text-decoration: none;
+}
+
+.nameatend {
+  text-decoration: underline;
+}
+
+.copyright {
+  font-family: 'Jost', sans-serif;
+  font-size: 125%;
+}
+.credit{font-size: 0.5%}
+.b1 {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 24px;
+   line-height: 24px;
+   color:white
+   ;
+   font-family: 'Jost', sans-serif;
+   width: 161px;
+   font-size: 27px;
+   font-weight: 100;
+   padding: 19px;
+   background-color: black;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+/*b1:hover {
+   background: #96AFD7;
+   border: solid #000000 ;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}*/
+.lastbar{
+background-color:#444444;
+position: relative;
+top:10px;
+}
+.socials{font-family: 'Jost', sans-serif;
+font-size: 175%;
+line-height: 2;
+position: relative;
+top:20px;}
